@@ -1,0 +1,8 @@
+_id: a4fd71c0-5e83-11e8-bff3-cf20643057a6
+name: test
+comment: 'Если хотите купить test, то Вам <a href="http://test.ru">сюда</a>'
+product: test
+date: '2018-05-23T12:20:14.013Z'
+timestamp: 1527078014
+tags:
+  - comment-subscription
