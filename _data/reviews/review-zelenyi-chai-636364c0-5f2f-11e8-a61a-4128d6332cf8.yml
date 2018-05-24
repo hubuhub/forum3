@@ -1,0 +1,10 @@
+_id: 636364c0-5f2f-11e8-a61a-4128d6332cf8
+name: Иван
+comment: >-
+  Если нужно купить зеленого чая, беру - <a
+  href="http://rambler.ru">http://rambler.ru</a>. У них лучшая доставка.
+product: zelenyi-chai
+timestamp: 1527151777
+date: '2018-05-24T08:49:37.413Z'
+tags:
+  - comment-subscription
